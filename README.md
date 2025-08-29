@@ -1,8 +1,9 @@
 # 系统资源监控工具
 
-一个基于Python的linux系统资源监控工具，可将CPU、内存、磁盘和网络状态实时显示在外部LCD屏幕上。
+一个基于Python的linux系统资源监控工具，可将CPU、内存、磁盘、网络状态、CPU温度实时显示在外部LCD屏幕上。
 * 买的是  https://e.tb.cn/h.hCXIqGOdWP64HT6?tk=jwPZ4nAaGaK CZ028 「USB小屏幕 电脑性能监控 桌面时钟」
-
+* MSU2_LINUX.py 是 CPU使用率、内存使用率、磁盘使用率、网络流量总量
+* MSU2_LINUX-1.py 是 CPU使用率、内存使用率、磁盘使用率、CPU温度
 ## 功能特点
 
 - 实时监控系统资源使用情况
